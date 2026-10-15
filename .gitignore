@@ -10,3 +10,9 @@ Data Manipulation/test.csv
 Data Manipulation/poison.csv
 Backdoor Assessment/test.csv
 Backdoor Assessment/train.csv
+Label Attacks/Targeted Label Attacks/Targeted Label Attack Capstone/targeted-label-student-template.ipynb
+Label Attacks/Label Flipping/__MACOSX/._label_flipping_dataset.npz
+Label Attacks/Targeted Label Attacks/Targeted Label Attack Capstone/label_flipping_dataset.npz
+.gitignore
+Label Attacks/Targeted Label Attacks/Targeted Label Attack Capstone/__MACOSX/._label_flipping_dataset.npz
+Label Attacks/Label Flipping/label_flipping_dataset.npz
