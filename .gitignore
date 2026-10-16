@@ -16,3 +16,4 @@ Label Attacks/Targeted Label Attacks/Targeted Label Attack Capstone/label_flippi
 .gitignore
 Label Attacks/Targeted Label Attacks/Targeted Label Attack Capstone/__MACOSX/._label_flipping_dataset.npz
 Label Attacks/Label Flipping/label_flipping_dataset.npz
+Label Attacks/Clean Label Attacks/Clean Label Attack Capstone/clean_label_eval_dataset.npz
