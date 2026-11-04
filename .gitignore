@@ -5,6 +5,7 @@ KDD+.txt
 Manipulating the Model/test.csv
 Manipulating the Model/train.csv
 .gitignore
+/Trojan Attacks/GTSRB/
 Data Manipulation/train.csv
 Data Manipulation/test.csv
 Data Manipulation/poison.csv
