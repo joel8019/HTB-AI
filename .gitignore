@@ -20,3 +20,4 @@ Label Attacks/Label Flipping/label_flipping_dataset.npz
 Label Attacks/Clean Label Attacks/Clean Label Attack Capstone/clean_label_eval_dataset.npz
 /Trojan Attacks/Capstone/data/MNIST/*
 Trojan Attacks/Capstone/student_trojan_mnist.ipynb
+Pickles and Steganography/*.pth
