@@ -21,3 +21,5 @@ Label Attacks/Clean Label Attacks/Clean Label Attack Capstone/clean_label_eval_d
 /Trojan Attacks/Capstone/data/MNIST/*
 Trojan Attacks/Capstone/student_trojan_mnist.ipynb
 Pickles and Steganography/*.pth
+AI Data Attacks Skills Assessment/assessment_dataset.npz
+AI Data Attacks Skills Assessment/poisoned_model_params.npz
